@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello there! Sou o Pedro Carné Conceição
+<div align="center">
+  <a href="https://github.com/pedroCConceicao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroCConceicao&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroCConceicao&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <!--
 **pedroCConceicao/pedroCConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
