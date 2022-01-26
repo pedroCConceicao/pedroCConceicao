@@ -16,8 +16,6 @@
   
 ##
 
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/36/46/e436462fa7c309b4bf73273e6a85ed9d.gif">
-
   
 <!--
 **pedroCConceicao/pedroCConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
