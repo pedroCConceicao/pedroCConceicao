@@ -1,7 +1,7 @@
 ### Welcome! My name is Pedro Carné
 <p>Currently, I'm a high school student(2nd year), but I take technical course in the area of development.</p>
 
-<h4>Meus conhecimentos:</h4>
+
 
 <div align="center">
   <a href="https://github.com/pedroCConceicao">
