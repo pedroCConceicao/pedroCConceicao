@@ -1,4 +1,5 @@
-### Hello there! Sou o Pedro Carné Conceição
+### Welcome! My name is Pedro Carné
+<p>Currently, I'm a high school student(2nd year), but I take technical course in the area of development.</p>
 
 <h4>Meus conhecimentos:</h4>
 
