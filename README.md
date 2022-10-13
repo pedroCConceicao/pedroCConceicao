@@ -6,7 +6,7 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
 
 ---
 
-### 💡 Skill Stack
+### 📌 Skill Stack
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40px" />
