@@ -1,5 +1,5 @@
 # 🍕 Pedro Carné
-**`Developer`**`Back-End`
+**`Developer`**`Front-End`
 
 Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge about technollogy and stuff, but I'm constantly learning things in the area that improve my skills. 😄
 <img src="">
