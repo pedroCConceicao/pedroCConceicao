@@ -3,8 +3,7 @@
 # 🍕 Pedro Carné
 **`Developer`**`Front-End`
 
-Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge about technollogy and stuff, but I'm constantly learning things in the area that improve my skills. 😄
-<img src="">
+Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge about technollogy and stuff, but I'm constantly learning things in the area that improve my skills. 
 
 ---
 
@@ -31,7 +30,11 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
 
 <details>
           <summary><h3>📜 Pedro's coding journey</h3></summary>
-          In production lol 🤷‍♂️
+          Junior developer and finishing high school.
+          <br><br>
+          I have more than 3 years in the area, acquiring knowledge and experience. I currently master web development, game development and UX/UI tools. In addition, I also work with video editing.
+          <br><br>
+          Among the tools that I'm used to work with, are: Wordpress, VSCode, Bootstrap, Figma etc.
 </details>
 
 #
