@@ -39,6 +39,9 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
 
 #
 
+### 🔗 Connect with me
+
+
 
           
           
