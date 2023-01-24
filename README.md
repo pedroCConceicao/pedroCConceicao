@@ -40,7 +40,8 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
 #
 
 ### 🔗 Connect with me
-
+<a href="https://www.instagram.com/cpedrin_c/"><img align=”left” src="https://github.com/pedroCConceicao/pedroCConceicao/blob/main/images/instagram.png" width="21px"></a>
+<a href="https://www.linkedin.com/in/pedro-carn%C3%A9-concei%C3%A7%C3%A3o-745525256/"><img align=”left” src="https://github.com/pedroCConceicao/pedroCConceicao/blob/main/images/linkedin.png" width="21px"></a>
 
 
           
