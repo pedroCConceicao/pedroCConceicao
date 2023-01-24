@@ -32,6 +32,9 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
           In production lol 🤷‍♂️
 </details>
 
+#
+
+
           
           
           
