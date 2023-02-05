@@ -32,9 +32,11 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
           <summary><h3>📜 Pedro's coding journey</h3></summary>
           Junior developer and finishing high school.
           <br><br>
-          I have more than 3 years in the area, acquiring knowledge and experience. I currently master web development, game development and UX/UI tools. In addition, I also work with video editing.
+          I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and game jam's. I currently master web development, game development and UX/UI tools. In addition, I also work with video editing.
           <br><br>
           Among the tools that I'm used to work with, are: Wordpress, VSCode, Bootstrap, Figma etc.
+          <br><br>
+          <bold>GameJam+ finalist and third place in "WE CODE WE CHANGE"(Uberlândia's Hackathon).</bold>
 </details>
 
 #
