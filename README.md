@@ -36,7 +36,11 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
           <br><br>
           Among the tools that I'm used to work with, are: Wordpress, VSCode, Bootstrap, Figma etc.
           <br><br>
-          <bold>GameJam+ finalist and third place in "WE CODE WE CHANGE"(Uberlândia's Hackathon).</bold>
+          🎯 GameJam+ finalist (Team: Firerchy)
+          <br>
+          🥉 Third place in "WE CODE WE CHANGE"(Uberlândia's Hackathon).
+          <br>
+          🧠 Mentor at TECHERS - Escola de Tecnologia
 </details>
 
 #
