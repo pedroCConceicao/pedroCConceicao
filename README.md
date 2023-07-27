@@ -25,7 +25,7 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
 ---
 
 ### 📊 Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroCConceicao&show_icons=true&theme=tokyonight)
+![Pedro's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedroCConceicao&show_icons=true&theme=tokyonight)
 
 #
 
