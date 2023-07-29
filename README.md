@@ -1,7 +1,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/68451062/214399306-0d7533c6-204e-4803-815f-59be044f8047.png" alt="Banner" width="800px"></div>
 
 # Pedro Carné
-**`Developer`**`Front-End`
+**`Developer`**`Back-End`*
 
 Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge about technollogy and stuff, but I'm constantly learning things in the area that improve my skills. 
 
