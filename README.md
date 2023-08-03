@@ -33,9 +33,9 @@ Hi! I'm Pedro, a junior developer and also a student. I have a big knowledge abo
           <summary><h3>📜 Pedro's coding journey</h3></summary>
           Junior developer and finishing high school.
           <br><br>
-          I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and game jam's. I currently master web development, game development and Linux. 
+          I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and            game jam's. Currently, I master web development, Node.js and also Java.
           <br><br>
-          By now, I am studying Cloud Computing.
+          By now, I am studying Cloud Computing and Docker.
           <br><br>
           🎯 GameJam+ finalist (Team: Firerchy, Project: Moonstars)
           <br>
