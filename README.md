@@ -3,19 +3,6 @@
 # Pedro Carné
 **`Developer`**`Back-End`*
 
-Junior developer and finishing high school.
-
-I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and game jam's. Currently, I master Typescript and Java(Spring Boot).
-
-Some other skills I have:
-Spring Boot; Angular; SQLDeveloper; Typescript; Git; Linux Servers; Express.
-
-By now, I am studying Cloud Computing and Docker.
-
-🧑‍💻 Currently working at Peixoto Atacadista as Spring Boot/Angular developer.
-🎯 GameJam+ finalist (Team: Firerchy, Project: Moonstars).
-🥉 Third place in "WE CODE WE CHANGE"(Uberlândia's Hackathon).
-🧠 Mentor at TECHERS - Escola de Tecnologia.
 ---
 
 ### 📌 Skill Stack
