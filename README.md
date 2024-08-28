@@ -1,23 +1,21 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/68451062/214399306-0d7533c6-204e-4803-815f-59be044f8047.png" alt="Banner" width="800px"></div>
 
 # Pedro Carné
-**`Developer`**`Back-End`*
+Software Developer - Java / Angular / SQL
 
 ---
 
 ### 📌 Skill Stack
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />   
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-          
-          
-          
-          
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40px"/>
+
 <br><br>
 
 ---
@@ -29,17 +27,17 @@
 
 <details>
           <summary><h3>📜 Pedro's coding journey</h3></summary>
-          Junior developer and finishing high school.
+          Junior developer and studying Information Systems at UNA.
           <br><br>
-          I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and            game jam's. Currently, I master web development, Node.js and also Java.
+          I have more than 3 years in the area, acquiring knowledge and experience and also participating of thousands of hackathons and game jam's. Currently, I master web development, using Angular and Java.
           <br><br>
-          By now, I am studying Cloud Computing and Docker.
+          By now, I am studying Cloud Computing and Kafka.
           <br><br>
           🎯 GameJam+ finalist (Team: Firerchy, Project: Moonstars)
           <br>
           🥉 Third place in "WE CODE WE CHANGE"(Uberlândia's Hackathon).
           <br>
-          🧠 Mentor at TECHERS - Escola de Tecnologia
+          🧠 Teacher at TECHERS - Escola de Tecnologia
 </details>
 
 #
